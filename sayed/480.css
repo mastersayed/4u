@@ -1,0 +1,122 @@
+.index-bg,
+.header-bg,
+.slider-center,
+.fixedbar-bg,
+.searchform,
+.content-block,
+.footer-title,
+.found-bg,
+.text-index,
+.single-bg,
+.pagination,
+.content-maxwidth
+{
+    max-width:320px;
+}
+.index-logo-link1{
+    float:none;
+}
+.index-logo-link2{
+    margin-top:20px;
+}
+.index-banner1-text,
+.index-banner2-text{
+    width:300px;
+    padding:10px;
+    margin-top:40px;
+}
+.index-banner1-text i,
+.index-banner2-text i{
+    font:18px gesstwo;
+}
+.index-banner1-text p,
+.index-banner2-text p{
+    font:15px montserrat;
+}
+.header-left-links{
+    margin:20px 0px 0px 5px;
+}
+.header-left-lists{
+    margin:20px 0px 10px 0px;
+}
+.header-left-lists li{
+    margin:0 0 5px 0;
+    float:none;
+}
+.header-left-lists li a{
+    width:300px;
+    margin-left:0;
+}
+#s{
+    width:70%;
+}
+.caption:hover,
+.caption span{
+    width:320px;
+}
+.caption span i{
+    margin:85px 70px 0px 70px;
+}
+.single-shareT,
+.single-shareF,
+.single-shareG{
+    float:none;
+    width:280px;
+}
+.d1,
+.d2{
+    float:none;
+}
+.member-left a{
+    float: none;
+    text-align: center;
+}
+.stats-info div{
+    margin: 10px;
+}
+.form-guest input[type="text"]{
+    width: 94%;
+}
+.form-guest input[type="password"]{
+    width: 94%;
+}
+.lastpost-post,
+.lastpost-by,
+.lastpost-time{
+    width: 90%;
+    height: 25px;
+    float: none;
+    display: block;
+    overflow: hidden;
+}
+.lastpost-by{
+    width: 90%;
+    float: none
+}
+.lastpost-time{
+    width: 90%;
+    float: none;
+}
+.userinfo-info{
+    display: none;
+}
+/*
+     FILE ARCHIVED ON 10:32:51 Dec 14, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:57:24 Oct 03, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.653
+  exclusion.robots: 0.018
+  exclusion.robots.policy: 0.007
+  esindex: 0.01
+  cdx.remote: 12.642
+  LoadShardBlock: 244.028 (3)
+  PetaboxLoader3.datanode: 186.804 (5)
+  PetaboxLoader3.resolve: 237.74 (2)
+  load_resource: 230.627 (2)
+*/

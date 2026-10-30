@@ -1,0 +1,96 @@
+.index-bg,
+.header-bg,
+.slider-center,
+.fixedbar-bg,
+.searchform,
+.content-block,
+.footer-title,
+.found-bg,
+.text-index,
+.single-bg,
+.pagination,
+.content-maxwidth
+{
+    max-width:700px;
+}
+.header-right{
+    float:none;
+    margin-top:10px;
+}
+.header-left-lists{
+    float:right;
+}
+.header-left-links{
+    margin:20px 0px 10px 5px;
+}
+.header-left-lists{
+    margin:20px 0px 10px 0px;
+}
+.da-slide h2{
+	font:30px JFFlat;
+}
+.da-slide p{
+    font:14px/1.5em JFFlat;
+	top:90px;
+}
+.content-blockR,
+.caption:hover,
+.caption span
+{
+    width:332px;
+}
+.single-shareT,
+.single-shareF,
+.single-shareG{
+    width:190px;
+}
+.stats-info div{
+    margin: 0 5px;
+}
+.member-right{
+    float: none;
+    margin-bottom: 10px;
+}
+.member-left{
+    float: none;
+}
+.member-left a{
+    padding: 10px 30px;
+}
+.lastpost-post,
+.lastpost-by,
+.lastpost-time{
+    width: 90%;
+    height: 25px;
+    float: none;
+    display: block;
+    overflow: hidden;
+}
+.lastpost-by{
+    width: 45%;
+    float: right
+}
+.lastpost-time{
+    width: 45%;
+    float: right;
+}
+/*
+     FILE ARCHIVED ON 10:35:35 Dec 14, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:57:22 Oct 03, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 2.002
+  exclusion.robots: 0.021
+  exclusion.robots.policy: 0.009
+  esindex: 0.01
+  cdx.remote: 75.71
+  LoadShardBlock: 140.322 (3)
+  PetaboxLoader3.datanode: 197.548 (5)
+  load_resource: 238.896 (2)
+  PetaboxLoader3.resolve: 59.986
+*/

@@ -1,0 +1,61 @@
+@font-face {
+    font-family:gesstwo;
+    src: url('../sayed/gesstwo.eot');
+    src: url('../sayed/gesstwo.eot') format('embedded-opentype'),
+         url('../sayed/gesstwo.woff') format('woff'),
+         url('../sayed/gesstwo.ttf') format('truetype'),
+         url('../sayed/sayed.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+     font-family:gesstwo;
+     src: url('../sayed/gesstwo.eot');
+     src: url('../sayed/gesstwo.eot') format('embedded-opentype'),
+          url('../sayed/gesstwo.woff') format('woff'),
+          url('../sayed/gesstwo.ttf') format('truetype'),
+          url('../sayed/sayed.svg') format('svg');
+     font-weight: normal;
+     font-style: normal;
+ }
+
+@font-face {
+    font-family:JFFlat;
+    src: url('../sayed/JF-Flat-regular.eot');
+    src: url('../sayed/JF-Flat-regular.eot') format('embedded-opentype'),
+         url('../sayed/sayed2.svg') format('svg'),
+         url('../sayed/JF-Flat-regular.woff') format('woff'),
+         url('../sayed/JF-Flat-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:montserrat;
+    src: url('../sayed/montserrat.eot');
+    src: url('../sayed/montserrat.eot') format('embedded-opentype'),
+         url('../sayed/montserrat.woff') format('woff'),
+         url('../sayed/montserrat.ttf') format('truetype'),
+         url('../sayed/sayed3.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/*
+     FILE ARCHIVED ON 10:43:26 Dec 14, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:57:15 Oct 03, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.445
+  exclusion.robots: 0.016
+  exclusion.robots.policy: 0.006
+  esindex: 0.008
+  cdx.remote: 119.982
+  LoadShardBlock: 137.068 (3)
+  PetaboxLoader3.datanode: 285.572 (5)
+  load_resource: 307.564 (2)
+  PetaboxLoader3.resolve: 62.68
+*/
