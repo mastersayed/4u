@@ -1,0 +1,318 @@
+body {
+    line-height: 1;
+    background: #fff;
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+}
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    text-decoration:none;
+    color:#e74c3c;
+}
+a:hover{
+    color:#333;
+}
+a:link, body_alink{
+}
+a:visited, body_avisited{
+}
+a:hover, a:active, body_ahover{
+}
+.page{
+}
+td, th, p, li{
+    font: 15px jfflat;
+}
+.tborder{
+    background:none;
+}
+.tcat{
+    background: #e74c3c;
+    color: #fff;
+    font: 14px gesstwo;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.tcat a:link, .tcat_alink{
+    color: #fff;
+    text-decoration: none;
+}
+.tcat a:visited, .tcat_avisited{
+    color: #fff;
+    text-decoration: none;
+}
+.tcat a:hover, .tcat a:active, .tcat_ahover{
+    color: #333;
+    text-decoration: none;
+}
+.thead{
+    background: #e74c3c;
+    color: #fff;
+    font: 14px gesstwo;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.thead a:link, .thead_alink{
+    color: #fff;
+}
+.thead a:visited, .thead_avisited{
+    color: #fff;
+}
+.thead a:hover, .thead a:active, .thead_ahover{
+    color: #333;
+}
+.tfoot{
+    background: #e74c3c;
+    color: #fff;
+    font: 14px gesstwo;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.tfoot a:link, .tfoot_alink{
+    color: #fff;
+}
+.tfoot a:visited, .tfoot_avisited{
+    color: #fff;
+}
+.tfoot a:hover, .tfoot a:active, .tfoot_ahover{
+    color: #333;
+}
+.alt1, .alt1Active{
+    background: #fff;
+    color: #444;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.alt2, .alt2Active{
+    background: #fff;
+    color: #444;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.inlinemod{
+    background: #FFFFCC;
+    color: #333;
+}
+.wysiwyg{
+    background: #fff;
+    color: #333;
+    font: 10pt tahoma;
+    margin: 5px 10px 10px 10px;
+    padding: 0px;
+}
+.wysiwyg a:link, .wysiwyg_alink{
+    color: #333;
+}
+.wysiwyg a:visited, .wysiwyg_avisited{
+    color: #333;
+}
+.wysiwyg a:hover, .wysiwyg a:active, .wysiwyg_ahover{
+    color: #234f72;
+}
+textarea, .bginput{
+    font: 14px gesstwo;
+    background: #fff;
+    border: 1px solid #eee;
+}
+.bginput option, .bginput optgroup{
+    font-size: 10pt;
+    font-family: tahoma;
+}
+.button{
+    background: #444;
+    border: none;
+    padding: 5px 20px;
+    color: #fff;
+    font: 14px gesstwo;
+    cursor: pointer;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.button:hover{
+    background: #353535;
+    color: #fff;
+}
+select{
+    font: 14px gesstwo;
+    background: #fff;
+    border: 1px solid #eee;
+    cursor: pointer;
+}
+select:focus,
+.button:focus{
+    outline: 0;
+}
+option, optgroup{
+    font-size: 10pt;
+    font-family: tahoma;
+}
+.smallfont{
+    font: 14px gesstwo;
+}
+.smallfont b{
+    font: 14px montserrat;
+}
+.smallfont2{
+    font: 20px gesstwo;
+    display: block;
+    margin: 20px 0;
+    text-align: center;
+    color: #e74c3c
+}
+.time{
+    color: #333;
+    font: 14px montserrat;
+}
+.navbar{
+    font: 10pt tahoma;
+}
+.highlight{
+    color: #FF0000;
+    font-weight: bold;
+}
+.fjsel{
+    background: #3E5C92;
+    color: #E0E0F6;
+}
+.fjdpth0{
+    background: #F7F7F7;
+    color: #000000;
+}
+.panel{
+    background: #fff url(/web/20171214103732im_/http://www.progs4u.net/vb/progstyle/css/images/alt1.gif) repeat-x;
+    color: #333;
+}
+.panelsurround{
+    background: #fff url(/web/20171214103732im_/http://www.progs4u.net/vb/progstyle/css/images/alt1.gif) repeat-x;
+    color: #333;
+}
+legend{
+    color: #333;
+    font: 14px gesstwoo;
+    padding:6px;
+}
+.vbmenu_control{
+    background: #e74c3c;
+    color: #fff;
+    font: 14px gesstwo;
+    padding: 3px 6px 3px 6px;
+    white-space: nowrap;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.vbmenu_control a:link, .vbmenu_control_alink{
+    color: #fff;
+    text-decoration: none;
+}
+.vbmenu_control a:visited, .vbmenu_control_avisited{
+    color: #fff;
+    text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover{
+    color: #333;
+}
+.vbmenu_popup{
+    background: #ccc;
+    color: #333;
+}
+.vbmenu_option{
+    background: #fff url(/web/20171214103732im_/http://www.progs4u.net/vb/progstyle/css/images/alt1.gif) repeat-x;
+    color: #333;
+    font: 10pt tahoma;
+    white-space: nowrap;
+    cursor: pointer;
+}
+.vbmenu_option a:link, .vbmenu_option_alink{
+    color: #333;
+}
+.vbmenu_option a:visited, .vbmenu_option_avisited{
+    color: #333;
+}
+.vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover{
+    color: #e74c3c;
+}
+.vbmenu_hilite{
+    background: #ddd;
+    color: #333;
+    font: 10pt tahoma;
+    white-space: nowrap;
+    cursor: pointer;
+}
+.vbmenu_hilite a:link, .vbmenu_hilite_alink{
+    color: #333;
+}
+.vbmenu_hilite a:visited, .vbmenu_hilite_avisited{
+    color: #333;
+}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active, .vbmenu_hilite_ahover{
+    color: #333;
+}
+.bigusername { 
+    font-size: 14pt; 
+}
+td.thead, th.thead, div.thead { 
+    padding: 4px; 
+}
+.pagenav a { 
+    text-decoration: none; 
+}
+.pagenav td {
+    padding: 2px 4px 2px 4px; 
+}
+.shade, a.shade:link, a.shade:visited { 
+    color: #777777; 
+}
+a.shade:active, a.shade:hover { 
+    color: #FF4400; 
+    text-decoration: underline; 
+}
+.tcat .shade, .thead .shade, .tfoot .shade { 
+    color: #DDDDDD; 
+}
+.fieldset { 
+    margin-bottom: 6px; 
+}
+.fieldset, .fieldset td, .fieldset p, .fieldset li { 
+    font-size: 11px; 
+}
+fieldset{
+    border:1px solid #eee;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+input{
+    font: 14px gesstwo;
+    background: #fff;
+    border: 1px solid #eee;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+input:focus{
+    outline: 0;
+}
+/*
+     FILE ARCHIVED ON 10:37:32 Dec 14, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:57:14 Oct 03, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 3.868
+  exclusion.robots: 0.013
+  exclusion.robots.policy: 0.005
+  esindex: 0.008
+  cdx.remote: 45.739
+  LoadShardBlock: 223.506 (3)
+  PetaboxLoader3.datanode: 176.519 (5)
+  PetaboxLoader3.resolve: 329.704 (3)
+  load_resource: 393.007 (2)
+*/
